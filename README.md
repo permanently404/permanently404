@@ -1,12 +1,12 @@
-<h1 align="center">Hi! My name is Max</h1>
+<img aling="right" alt="coding" width="100%" height='400px' src="https://disk.yandex.ru/i/7eY4Axhygw6uRA">
+<h1 align="center">
+<h1>Hi! My name is Max</h1>
 <h3 align="center">I'am Front-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=permanently404&label=Profile%20views&color=0e75b6&style=flat" alt="permanently404" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
-
 - 💬 Ask me about **React, Express, JS, worst places in Moscow**
-
+- 🌱 I’m currently learning **TypeScript, MongoDB**
 - 📫 How to reach me **maxim.bno@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
