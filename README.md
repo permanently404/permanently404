@@ -1,4 +1,4 @@
- <img aling="right" alt="coding" width="100%" height='400px' src="https://s22vlx.storage.yandex.net/rdisk/28cccb3be9592bf029dc53eb8c22c1745ffbab19fce5f7ef3ee7da9f2e44141c/632b768c/qy1rht91xTfJlNQThptDMPqSRL_yLDVV8Oi9Gpl-YFHZz_7h-HWqwFjvXVyEK8-YHoRmtKfQeZVW8Q-Lsm01jg==?uid=0&filename=Animation_Maxim.gif&disposition=inline&hash=&limit=0&content_type=image%2Fgif&owner_uid=0&fsize=2392768&hid=218b895be8cf73d906d94a2ab940a647&media_type=image&tknv=v2&etag=aa9f5820e996e5e1c20213e42ff021a9&rtoken=mBGqtNItKU4H&force_default=no&ycrid=na-b66a6184c2e938f3ea277a6d15be6697-downloader3f&ts=5e935f1a1bb00&s=ec2d00723050c203c715d902b585b2ae83ab2caef21a83de4145186076698864&pb=U2FsdGVkX1--1SMtAyhRIuplfWvvGLcCNOgZhDbQ4IhxwCETe6B1AKzHOgcJ1pYnpTt6bGm14P6_zCRKMIwqfu1XdtnkFqlL_NCAWt3x_30">
+ <img aling="right" alt="coding" width="100%" height='400px' src="./img/Animation_Maxim.gif">
  
 
 
